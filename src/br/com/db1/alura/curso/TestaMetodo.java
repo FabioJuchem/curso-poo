@@ -1,4 +1,6 @@
-package br.com.db1.alura;
+package br.com.db1.alura.curso;
+
+import br.com.db1.alura.curso.Conta;
 
 public class TestaMetodo {
 

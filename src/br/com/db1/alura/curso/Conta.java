@@ -1,4 +1,4 @@
-package br.com.db1.alura;
+package br.com.db1.alura.curso;
 
 public class Conta {
 
@@ -6,6 +6,7 @@ public class Conta {
     int agencia;
     int numero;
     String titular;
+
 
 
     public void depositar(double valor) {
