@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b51dbf7e-96e0-4a5a-9d1c-ee24dc0e8388" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/br/com/db1/bytebank/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/br/com/db1/bytebank/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/br/com/db1/bytebank/TestaBanco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/br/com/db1/bytebank/TesteContaSemCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/br/com/db1/bytebank/TesteSacaNegativo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/TestaGetESet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/TestaValores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alura1/br/com/db1/alura/Conta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alura1/br/com/db1/alura/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alura1/br/com/db1/alura/TestaMetodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/db1/alura/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/db1/alura/curso/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/db1/alura/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/db1/alura/curso/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/db1/alura/TestaMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/db1/alura/curso/TestaMetodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alura1/br/com/db1/alura/bytebankEncapsulado/TestaValores.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Alura1/br/com/db1/alura/bytebankEncapsulado/TestaValores.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,30 +18,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/Conta.java">
+        <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/recursosLinguagem/OrdenaStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="395">
+              <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding>
-                <element signature="e#683#684#0" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
-                <element signature="e#796#797#0" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1470#1471#0" expanded="true" />
-                <element signature="e#1555#1556#0" expanded="true" />
-                <element signature="e#1652#1653#0" expanded="true" />
-                <element signature="e#1680#1681#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/TestaValores.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -91,10 +59,11 @@
         <option value="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/TestaGetESet.java" />
         <option value="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/Conta.java" />
         <option value="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/TestaValores.java" />
+        <option value="$PROJECT_DIR$/src/br/com/db1/alura/recursosLinguagem/OrdenaStrings.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
@@ -106,8 +75,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +95,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="alura" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Alura1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alura" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alura" type="462c0819:PsiDirectoryNode" />
+              <item name="curso" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alura1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alura" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="alura" type="462c0819:PsiDirectoryNode" />
+              <item name="recursosLinguagem" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -134,7 +117,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -162,13 +145,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestaValores">
-    <configuration name="TestaBanco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.db1.alura.br.com.db1.bytebank.TestaBanco" />
+  <component name="RunManager" selected="Application.OrdenaStrings">
+    <configuration name="OrdenaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.db1.alura.recursosLinguagem.OrdenaStrings" />
       <module name="Alura1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.db1.alura.br.com.db1.bytebank.*" />
+          <option name="PATTERN" value="br.com.db1.alura.recursosLinguagem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenaStrings" />
         <item itemvalue="Application.TestaValores" />
         <item itemvalue="Application.TestaGetESet" />
         <item itemvalue="Application.TesteSacaNegativo" />
         <item itemvalue="Application.TesteContaSemCliente" />
-        <item itemvalue="Application.TestaBanco" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +247,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +264,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3288889" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -291,6 +274,9 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Alura1.iml">
@@ -311,13 +297,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/curso/TestaMetodo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -397,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/bytebankEncapsulado/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
             <element signature="e#683#684#0" expanded="true" />
             <element signature="e#716#717#0" expanded="true" />
@@ -409,6 +388,30 @@
             <element signature="e#1555#1556#0" expanded="true" />
             <element signature="e#1652#1653#0" expanded="true" />
             <element signature="e#1680#1681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/curso/TestaMetodo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/db1/alura/recursosLinguagem/OrdenaStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="84" column="5" lean-forward="true" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
